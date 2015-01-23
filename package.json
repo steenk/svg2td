@@ -1,0 +1,29 @@
+{
+  "name": "svg2td",
+  "version": "0.2.0",
+  "description": "Converts SVG to TDStruct. Use with tripledollar.js.",
+  "main": "svg2td.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steenk/svg2td.git"
+  },
+  "dependencies": {
+    "easysax": ">=0.1.14"
+  },
+  "bin": {
+    "svg2td": "svg2td.js"
+  },
+  "keywords": [
+    "tripledollar",
+    "svg"
+  ],
+  "author": "steenk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steenk/svg2td/issues"
+  },
+  "homepage": "https://github.com/steenk/svg2td"
+}
